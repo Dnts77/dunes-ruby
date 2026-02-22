@@ -1,0 +1,7 @@
+Jim, Sales
+Overriddens
+Kelly, Costumer Service
+Creed, Quality Assurance
+Michael, Manager
+
+Oscar, Accounting
